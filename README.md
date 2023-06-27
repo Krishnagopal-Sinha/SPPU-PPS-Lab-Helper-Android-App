@@ -9,7 +9,7 @@ Technically, this app can be considered as Lab manual for PPS Lab. It contains I
 Hope this helps in your long endeavor on the path of becoming an Engineer...
 Never lose hope, keep moving forwards and I promise you, it'll be alright in the end :D
 
-Privacy Policy & Terms and Conditions available at: https://devchrissin.blogspot.com/2022/01/pps-practicals-sppus-privacy-policy.html
+Privacy Policy available at: https://www.termsfeed.com/live/7bf13107-ac31-478c-a587-51bfeb3aba2f
 
 ### Icon:
 ![App Icon](https://lh3.googleusercontent.com/7gpplA9qzeOpfcvTASA61bS2SA4w_4VjfmIMiqYe1GXdCWkBeeIFsWiZ6ODQMIUETA "App Icon")

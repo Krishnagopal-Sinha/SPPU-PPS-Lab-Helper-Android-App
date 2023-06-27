@@ -52,7 +52,7 @@ class InfoScreen extends StatelessWidget {
                       fontSize: screenWidth * 4.8,decoration: TextDecoration.underline,
                       overflow: TextOverflow.ellipsis,
                     ),),
-                  onTap: ()=>launchUrl(Uri.parse("https://devchrissin.blogspot.com/2022/01/pps-practicals-sppus-privacy-policy.html")),
+                  onTap: ()=>launchUrl(Uri.parse("https://www.termsfeed.com/live/7bf13107-ac31-478c-a587-51bfeb3aba2f")),
                 ),
               ),
               Padding(
